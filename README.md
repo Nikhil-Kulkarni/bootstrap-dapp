@@ -6,7 +6,7 @@ A small collection of hooks and UI that are useful for building DApps <br /> Min
 
 ## Installation
 
-Drap and Drop the library to your react project and install ethers. Add `REACT_APP_INFURA_URL` to your environment. This should point to your infura environment. <br /> Wrap your top level React component in `EthersProvider` and you're ready to go. <br /> For create react app, wrap your index.js with `EthersProvider`.
+Drap and Drop the library folder to your react project and install ethers. Add `REACT_APP_INFURA_URL` to your environment. This should point to your infura environment. <br /> Wrap your top level React component in `EthersProvider` and you're ready to go. <br /> For create react app, wrap your index.js with `EthersProvider`.
 
 ```
 <EthersProvider>
