@@ -1,6 +1,6 @@
 ## Bootstrap DApp
 
-![Component image](/public/boostrapdapp.png)
+![Component image](/public/bootstrapdapp.png)
 
 A small collection of hooks and UI that are useful for building DApps <br /> Mini DApp has `useEthers`, `useContract`, and `ConnectWalletButton` to get your bootstrapped with your web3 dapp. <br />
 
